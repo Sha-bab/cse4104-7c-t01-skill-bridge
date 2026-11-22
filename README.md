@@ -85,4 +85,3 @@ The AI assistant uses Retrieval-Augmented Generation (RAG) to answer questions u
 | **Email** | Resend, SendGrid, or Brevo |
 | **Deployment** | Vercel/Netlify, Render/Railway, GitHub Actions. |
 
-hehehe
