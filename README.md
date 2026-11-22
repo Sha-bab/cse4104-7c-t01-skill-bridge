@@ -83,5 +83,5 @@ The AI assistant uses Retrieval-Augmented Generation (RAG) to answer questions u
 | **AI** | LLM API (e.g. Google Gemini), Hugging Face models |
 | **Video Meetings** | Google Calendar API (Google Meet links) |
 | **Email** | Resend, SendGrid, or Brevo |
-| **Deployment** | Vercel/Netlify, Render/Railway, GitHub Actions |
+| **Deployment** | Vercel/Netlify, Render/Railway, GitHub Actions. |
 
