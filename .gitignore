@@ -8,6 +8,7 @@ dist/
 
 # Build output
 client/dist/
+server/uploads/
 
 # Logs
 *.log
